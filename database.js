@@ -1,8 +1,7 @@
 const mongoose = require("mongoose");
 
-const _server = "127.0.0.1:27017";
-// const server = "mongodb+srv://<username>:<password>@belpeocluster-28zxw.mongodb.net/test?retryWrites=true&w=majority"
-const database = "belpeo";
+const server = "";
+const database = "";
 
 class Database {
   constructor() {}
